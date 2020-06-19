@@ -1,2 +1,5 @@
-.autogit
-extract
+indev 
+# this is my folder for development
+
+**/._*   
+# exclude mac specific files
